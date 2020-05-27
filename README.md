@@ -3,8 +3,8 @@
 ### Step 1 - Prepare
 
 - [ ] Make sure that my work enivroment is quiet and inform my family that I will start working.
-- [ ] Remind yourself how important is your work [[more]](./01_importance.md).
-- [ ] Claim pending *Code Review Request (CRR)* [[more]](./02_claim.md).
+- [ ] Remind yourself how important is your work [[more]]
+- [ ] Claim pending *Code Review Request (CRR)* [[more]]
 
 ### Step 2 - check if code review request is valid
 
@@ -30,23 +30,20 @@
     - **report Code Review Request as invalid if these conditions are not met and this was required by the project**
 - [ ] Open ["Code review guidelines"](https://gitlab.com/microverse/guides/tse/code_review/code_review_guidelines) based on project requirements and check the requirements for the project you are reviewing.
     - [ ] **Always remember to explain WHY you request a change and add a screenshot of it .**
-    - [ ] Run the pre-built tests (when available) [[more]](https://gitlab.com/microverse/guides/tse/how_to_be_a_tse/-/blob/master/code_review_checklist/06_tests.md).
-    - [ ] Go through the "Minimum Requirements Checklist" [[more]](./07_minimum.md).
-        - Feel free to copy checkboxes with the requirements that are not met.
-        - Do not copy checkboxes with requirements that are met (we do not want students to easily share full checklists with other students).
+    - [ ] Run the pre-built tests (when available)
+    - [ ] Go through the "Minimum Requirements Checklist" (**don't approve the project if one of this is not met**)
+        - Copy checkboxes with the requirements that are not met.
         - Leave comments directly under the line of code that you want the student to modify.
-    - [ ] Go through the "Stretch Requirements Checklist" [[more]](./08_stretch.md).
+    - [ ] Go through the "Stretch Requirements Checklist"
         - Add `[OPTIONAL]` at the beginning of your comment and mention that it is not required to mark the project as approved.
-    - [ ] [OPTIONAL] Add your own comments [[more]](./09_comments.md).
+    - [ ] [OPTIONAL] Add your own comments
         - Add `[OPTIONAL]` at the beginning of your comment and mention that it is nor required to mark the project as approved.
 
 ### Step 4 - complete code review request
 
-- [ ] Summarize the result of your code review [[more]](./10_summary.md).
+- [ ] Summarize the result of your code review
     - `Approve` **OR** `Request changes` in the Pull Request.
     - Remember about giving a kind summary in the final comment.
     - **Find positive words to share in your summary, particularly when you have requested for changes multiple times. This is when they are needed the most.**.
 - [ ] [OPTIONAL] Remember about emojis and gifs. They will make your code review more human-friendly 👽👽👽.
-- [ ] [OPTIONAL] Open a "Merge request" in [Code review guidelines repo](https://gitlab.com/microverse/guides/tse/code_review/code_review_guidelines#how-to-raise-a-pr-for-this-repository).
-    - If you think that something is missing in the requirements and/or code review guidelines.
-- [ ] Mark review as completed in the [dashboard](https://dashboard.microverse.org/code_review_request) [[more]](./05_complete.md).
+- [ ] Mark review as completed in the [dashboard](https://dashboard.microverse.org/code_review_request)
